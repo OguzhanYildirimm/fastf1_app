@@ -1,5 +1,4 @@
 # fastf1_app
-A new Flutter project.
 This project was coded by Oguzhan Yildirim. It has no commercial purpose.
 
 
