@@ -1,16 +1,14 @@
 # fastf1_app
-
 A new Flutter project.
 
-## Getting Started
+This project was coded by Oguzhan Yildirim. It has no commercial purpose.
 
-This project is a starting point for a Flutter application.
+<h1> Day 1 : Coded Home Screen and Driver List Screen </h1>
 
-A few resources to get you started if this is your first Flutter project:
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.hizliresim.com/k1vp6kt.png" alt="DataF1: Day 1" width = "300"></td>
+    <td><img src="https://i.hizliresim.com/jvb79so.png" alt="DataF1: Day 1" width = "300"></td>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  </tr>
+</table>
