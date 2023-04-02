@@ -63,7 +63,12 @@ flutter:
   assets:
     - assets/driver_images/
     - assets/drivers_json/drivers.json
+    - assets/schedule_images/
+    - assets/schedule_json/schedule.json
+    - assets/race_circuit_images/
+    - assets/events_detail_images/
     - assets/home_screen_images/
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

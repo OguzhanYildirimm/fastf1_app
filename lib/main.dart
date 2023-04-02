@@ -14,9 +14,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'DataF1 App',
       theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
-        primarySwatch: Colors.purple,
-      ),
+          scaffoldBackgroundColor: Colors.white,
+          primarySwatch: Colors.purple,
+          primaryColor: Colors.purple),
       home: const HomePage(),
     );
   }
