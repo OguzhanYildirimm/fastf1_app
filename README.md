@@ -17,3 +17,19 @@ This project was coded by Oguzhan Yildirim. It has no commercial purpose.
 
   </tr>
 </table>
+
+<h1> Day 2 : Coded Schedule Screen and Event Detail Screen </h1>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.hizliresim.com/b7s9v83.png" alt="DataF1: Day 2" width = "300"></td>
+    <td><img src="https://i.hizliresim.com/8urxmyz.png" alt="DataF1: Day 2" width = "300"></td>
+
+  </tr>
+</table>
+
+
+
+
+https://i.hizliresim.com/b7s9v83.png
+https://i.hizliresim.com/8urxmyz.png
