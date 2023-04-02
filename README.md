@@ -12,9 +12,8 @@ This project was coded by Oguzhan Yildirim. It has no commercial purpose.
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.hizliresim.com/k1vp6kt.png" alt="DataF1: Day 1" width = "300"></td>
+    <td><img src="https://i.hizliresim.com/c7kztm8.png" alt="DataF1: Day 1" width = "300"></td>
     <td><img src="https://i.hizliresim.com/jvb79so.png" alt="DataF1: Day 1" width = "300"></td>
-
   </tr>
 </table>
 
