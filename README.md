@@ -26,9 +26,3 @@ This project was coded by Oguzhan Yildirim. It has no commercial purpose.
 
   </tr>
 </table>
-
-
-
-
-https://i.hizliresim.com/b7s9v83.png
-https://i.hizliresim.com/8urxmyz.png
